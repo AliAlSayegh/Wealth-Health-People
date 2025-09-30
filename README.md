@@ -56,7 +56,6 @@ Wealth-Health-Population/
 │ ├── life_expectancy.csv
 │ ├── population.csv
 │
-│── notebooks/
-│ ├── analysis.ipynb
+│── main_analysis.ipynb
 │
 │── README.md
